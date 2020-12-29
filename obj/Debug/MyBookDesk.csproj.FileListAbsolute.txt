@@ -1,0 +1,112 @@
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\MyBookDesk.exe.config
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\MyBookDesk.exe
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\MyBookDesk.pdb
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\Npgsql.dll
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Buffers.dll
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Memory.dll
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Numerics.Vectors.dll
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Text.Encodings.Web.dll
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Text.Json.dll
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.ValueTuple.dll
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\Npgsql.xml
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Buffers.xml
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Memory.xml
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Numerics.Vectors.xml
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Text.Encodings.Web.xml
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Text.Json.xml
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\bin\Debug\System.ValueTuple.xml
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.csprojAssemblyReference.cache
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.frmCadastroLivro.resources
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.Properties.Resources.resources
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.csproj.GenerateResource.cache
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.csproj.CopyComplete
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.exe
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.pdb
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.frmCadastroCliente.resources
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.frmCadastroEditora.resources
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.frmCadastro.resources
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.frmHome.resources
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.frmLogin.resources
+D:\Trabalhos CTI\Técnico\C#\MyBookDesk\obj\Debug\MyBookDesk.frmPesquisa.resources
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.csprojAssemblyReference.cache
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.exe
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.pdb
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\MyBookDesk.exe.config
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\MyBookDesk.exe
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\MyBookDesk.pdb
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\Npgsql.dll
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Buffers.dll
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Memory.dll
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Text.Json.dll
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.ValueTuple.dll
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\Npgsql.xml
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Buffers.xml
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Memory.xml
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Text.Json.xml
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.ValueTuple.xml
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmCadastroCliente.resources
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmCadastroEditora.resources
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmCadastroLivro.resources
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmHome.resources
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmLogin.resources
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmPesquisaCliente.resources
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.Properties.Resources.resources
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.csproj.GenerateResource.cache
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.csproj.CopyComplete
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmPesquisaEditora.resources
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmCompra.resources
+C:\Users\Luis Fernando\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmPesquisaLivro.resources
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\MyBookDesk.exe.config
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\MyBookDesk.exe
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\MyBookDesk.pdb
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\Npgsql.dll
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Buffers.dll
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Memory.dll
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Text.Json.dll
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.ValueTuple.dll
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\Npgsql.xml
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Buffers.xml
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Memory.xml
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Text.Json.xml
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\bin\Debug\System.ValueTuple.xml
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.csprojAssemblyReference.cache
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmCadastroCliente.resources
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmCadastroEditora.resources
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmCadastroLivro.resources
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmCompra.resources
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmHome.resources
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmLogin.resources
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmPesquisaCliente.resources
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmPesquisaEditora.resources
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.frmPesquisaLivro.resources
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.Properties.Resources.resources
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.csproj.GenerateResource.cache
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.csproj.CopyComplete
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.exe
+C:\Users\helog\Desktop\MyBookDesk\MyBookDesk\obj\Debug\MyBookDesk.pdb
